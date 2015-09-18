@@ -1,0 +1,26 @@
+{
+	"name": "classifieds",
+	"title": "Classifieds",
+	"description": "Allow users to create classified ads.",
+	"keywords": ["classifieds", "ads"],
+	"version": "0.1.0",
+	"author": {
+		"name": "Jason Clemons",
+		"email": "hello@jasonclemons.me",
+		"homepage": "https://jasonclemons.me"
+	},
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4.0",
+		"flarum": ">0.1.0"
+	},
+	"support": {
+		"source": "https://github.com/zilladotexe/flarum-classifieds",
+		"issues": "https://github.com/zilladotexe/flarum-classifieds/issues"
+	},
+	"icon": {
+		"name": "money",
+		"backgroundColor": "#15b715",
+		"color": "#fff"
+	}
+}
