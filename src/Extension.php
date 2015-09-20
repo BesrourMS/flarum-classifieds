@@ -17,11 +17,6 @@ class Extension extends BaseExtension
 {
     public function listen(Dispatcher $events)
     {
-        $events->subscribe('Flarum\Mentions\Listeners\');
-    }
-
-    public function boot()
-    {
-        $this->loadViewsFrom(__DIR__.'/../views', 'classifieds');
+        $events->subscribe('Flarum\Classifieds\Listeners'); // Who knows, we'll figure this out eventually :P
     }
 }
