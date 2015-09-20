@@ -3,7 +3,7 @@
 A Classifieds extension for [Flarum](http://flarum.org) forums
 
 _Author:_ [Jason Clemons](https://jasonclemons.me)
-_License:_ [MIT](https://github.com/zilladotexe/flarum-classifieds/blob/master/LICENSE)
+_License:_ [MIT](https://github.com/forum/flarum-classifieds/blob/master/LICENSE)
 
 
 ## Introduction
@@ -33,11 +33,11 @@ Flarum Classifieds is an extension for [Flarum](http://flarum.org) forums that a
 
 ## Installation
 
-* [Download](https://github.com/zilladotexe/flarum-classifieds/releases/latest) the latest release, upload it to the `extensions` directory, and unzip the zip archive.
+* [Download](https://github.com/forum/flarum-classifieds/releases/latest) the latest release, upload it to the `extensions` directory, and unzip the zip archive.
 * In your admin dashboard, go to the Extensions page and click 'Enable'.
 * You can configure options in the newly created tab on the left side.
 
 
 ## Support
 
-Support for Flarum Classifieds will be offered through [Flarum.co](http://flarum.co). All bug reports must be submitted to the [GitHub Repository](https://github.com/zilladotexe/flarum-classifieds).
+Support for Flarum Classifieds will be offered through [Flarum.co](http://flarum.co). All bug reports must be submitted to the [GitHub Repository](https://github.com/forum/flarum-classifieds).
