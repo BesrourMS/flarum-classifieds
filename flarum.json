@@ -1,5 +1,5 @@
 {
-	"name": "classifieds",
+	"name": "flarum-classifieds",
 	"title": "Classifieds",
 	"description": "Allow users to create classified ads.",
 	"keywords": ["classifieds", "ads"],
