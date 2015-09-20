@@ -15,8 +15,8 @@
 		"flarum": ">0.1.0"
 	},
 	"support": {
-		"source": "https://github.com/zilladotexe/flarum-classifieds",
-		"issues": "https://github.com/zilladotexe/flarum-classifieds/issues"
+		"source": "https://github.com/forum/flarum-classifieds",
+		"issues": "https://github.com/forum/flarum-classifieds/issues"
 	},
 	"icon": {
 		"name": "money",
