@@ -1,0 +1,4 @@
+classifieds:
+  price: "Price"
+  sold: "Sold"
+  not_sold: "Not Sold"
